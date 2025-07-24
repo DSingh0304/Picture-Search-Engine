@@ -1,4 +1,4 @@
-const accessKey = `tiKQoCJfXgOowGHAe7HlD4tc4W_5uRzPUyZ6ocX3B2o`;
+const accessKey = ``;
 
 const searchInput = document.querySelector("#searchInput");
 const searchBtn = document.querySelector(".search-btn");
